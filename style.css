@@ -1,0 +1,60 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.header{
+   float: left;
+   height: 500px;
+   width: 600px;
+}
+.tedris{
+ font-size: 90px 
+}
+.saheleri{
+   font-size: 60px;
+   color: gray
+}
+.text{
+   font-size: 25px;
+   color: gray
+}
+.mark{
+   float: left;
+   border-style: solid;
+   border-color: gray;
+   margin: 20px
+}
+.des{
+   float: left;
+   border-style: solid;
+   border-color: gray;
+   margin: 20px;
+   height: 96px
+}
+.pro{
+   float: left;
+   border-style: solid;
+   border-color: gray;
+   height: 96px;
+   margin: 20px
+}
+.sys{
+   float: left;
+   border-style: solid;
+   border-color:  gray;
+   height: 119px;
+   margin: 20px
+}
+.mark:hover{
+  color: blueviolet
+}
+.des:hover{
+  color: blueviolet
+}
+.pro:hover{
+  color: blueviolet
+}
+.sys:hover{
+  color: blueviolet
+}
